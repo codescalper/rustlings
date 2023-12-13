@@ -11,5 +11,5 @@ fn main() {
 }
 
 fn square(num: i32) -> i32 {
-    num * num;
+    num * num //Either we add return num*num; or remove the ; i removed the semi-colon
 }
